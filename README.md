@@ -2,9 +2,9 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-# ML Project : "Credit Card Analytical Report using Power BI"
+# Behavioral Finance Research
 
-### ~ Credit Card Transaction and Customer Analytical Report based on Gender Diversity, Quarterly Performance and many more.
+### ~ Exploratory Research on "House Money Effect"
 
 
 # What is the Purpose of this Project?
@@ -37,7 +37,9 @@ Credit Card Customer Analytics Dashboard
 
 ## Tech Stack
 
-**Visualisation Platform:**   PowerBI (Microsoft)
+**Visualisation Charts Platform:**   JAMOVI
+**Programming Language:**   Python
+**Data Gathering Mode:**   Google Form
 
 
 ## Related
